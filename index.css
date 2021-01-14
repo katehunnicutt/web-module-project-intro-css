@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&family=Roboto+Mono:wght@300;400&display=swap');
+
+html, body, div, span, applet, object, iframe,  
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,  
+a, abbr, acronym, address, big, cite, code,  
+del, dfn, em, img, ins, kbd, q, s, samp,  
+small, strike, strong, sub, sup, tt, var,  
+b, u, i, center,  
+dl, dt, dd, ol, ul, li,  
+fieldset, form, label, legend,  
+table, caption, tbody, tfoot, thead, tr, th, td,  
+article, aside, canvas, details, embed,  
+figure, figcaption, footer, header, hgroup,  
+menu, nav, output, ruby, section, summary,  
+time, mark, audio, video {  
+    margin: 0;  
+    padding: 0;  
+    border: 0;  
+    font-size: 100%;  
+    font: inherit;  
+    vertical-align: baseline;  
+}
+
+.header-img{
+    border-radius: 50%;
+    width: 20%;
+    padding: 5%;
+}
+
+.container{
+    margin: 0 auto;
+    width: 600px
+    font-family: 'Roboto Mono', monospace;
+}
+Body{
+}
+
+nav{
+    display: inline-block;
+    margin: 0 10px;
+    padding: 70px;
+    border-radius: 60px;
+    margin-bottom: 30px;
+}
+
+nav .plan-your-visit{
+    background-color: #FF764E;
+    color: white;
+    font-size: 30px;
+    border: solid black;
+    border-radius: 10px;
+    padding: 40px;
+    margin: 50px;
+    font-family: 'Roboto Mono', monospace;
+    
+}
+nav .about-the-park{
+    background-color: #5ED3EB;
+    color: white;
+    font-size: 30px;
+    border: solid black;
+    border-radius: 10px;
+    padding: 40px;
+    margin: 50px;
+    font-family: 'Roboto Mono', monospace;
+}
+
+nav .get-involved{
+    background-color: #FFCD69;
+    color: white;
+    font-size: 30px;
+    border: solid black;
+    border-radius: 10px;
+    padding: 40px;
+    margin: 10px;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.header-img img{
+    width: 50%;
+    border-radius: 50%;
+}
+
+.section1 h1{
+    font-family: 'Chelsea Market', cursive;
+    color: black;
+    font-size: 80px;
+    text-align: center;
+
+}
+.section1 p{
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+
+}
+.section2 p{
+    font-family: 'Roboto Mono', monospace;
+    background-color: #DDB9A3;
+    text-align: center;
+
+}
+.section3 p{
+    font-family: 'Roboto Mono', monospace;
+    background-color: #DDB9A3;
+    text-align: center;
+}
+.section3 img{
+    height: 20px
+    display: center;
+}
+
+.section3 span{
+    font-weight: bold;
+}
+
+.section4 p{
+    font-family: 'Roboto Mono', monospace;
+    background-color: #DDB9A3;
+    text-align: center;
+}
+
+.section4 img{
+    height: 70px;
+    align
+}
